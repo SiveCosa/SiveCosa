@@ -2,7 +2,7 @@
 
 Software Engineering graduate based in Johannesburg, South Africa, with a BSc in Information Technology specialising in Software Engineering.
 
-I enjoy building practical software across mobile, web and backend development. My project experience includes Flutter and Firebase applications, Java desktop and Android applications, PHP/MySQL systems, and modern web applications built with Next.js and TypeScript.
+I build practical software across mobile, web and backend development, with experience in Flutter/Firebase applications, Java systems, PHP/MySQL platforms and modern web applications using Next.js and TypeScript.
 
 I am currently completing an IT and networking learnership at QneticX while preparing for the CompTIA Network+ certification.
 
@@ -37,30 +37,30 @@ Git • GitHub • Android Studio • IntelliJ IDEA • NetBeans • Cursor • 
 
 ## Featured Projects
 
-### Bloom – Student Social & Event Platform
-A full-stack mobile platform designed to help students build real-world social connections through verified, interest-based events.
+### [Bloom – Student Social & Event Platform](https://github.com/SiveCosa/bloom)
+A collaborative Flutter and Firebase social discovery and event-management application designed to help students connect through real-world events.
 
-**Technologies:** Flutter, Dart, Firebase, Firestore, Cloud Functions, Node.js, Riverpod
+**Technologies:** Flutter, Dart, Firebase, Firestore, Cloud Functions, Riverpod, go_router
 
-My contributions included full-stack development and a personalised event recommendation system that filters and ranks events using user interests, eligibility rules, visibility restrictions and popularity scoring.
-
----
-
-### Modise Advisory Group Website
-A professional business website developed for a real client using modern web technologies.
-
-**Technologies:** Next.js, TypeScript, Tailwind CSS
-
-Built responsive pages, reusable components, contact functionality, email and WhatsApp integration, form validation and responsive navigation.
+My documented contributions include implementing the secure personalised **For You** discovery engine, calendar filtering and local search functionality, and event-card interaction refinements across the Flutter and Firebase stack.
 
 ---
 
-### DragonStone E-Commerce Platform
-A database-driven e-commerce platform focused on sustainable home products.
+### [Modise Advisory Group Website](https://github.com/SiveCosa/modise-advisory-website)
+A professional responsive business website developed independently for a real freelance client.
 
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Cloudflare Pages, Resend
 
-Implemented authentication, product management, shopping-cart functionality, checkout, order processing, database relationships and administrative functionality.
+Designed and implemented the complete website, including reusable components, responsive navigation, SEO metadata, business contact integrations, and a serverless contact form deployed through Cloudflare Pages Functions.
+
+---
+
+### [DragonStone E-Commerce Platform](https://github.com/SiveCosa/Dragonstone)
+A full-stack sustainability-focused e-commerce platform developed with PHP and MySQL.
+
+**Technologies:** PHP, MySQL, JavaScript, Bootstrap, PDO
+
+Implemented authentication, product and inventory management, shopping-cart and checkout workflows, EcoPoints and rewards, community features, carbon-footprint functionality and administrative dashboards.
 
 ---
 
@@ -71,6 +71,7 @@ A Java desktop application for managing customers, insurance policies and premiu
 
 Applied object-oriented programming, database integration, CRUD operations, validation and exception handling.
 
+
 ## Currently
 
 - Completing an IT & Networking Learnership at QneticX
@@ -80,6 +81,6 @@ Applied object-oriented programming, database integration, CRUD operations, vali
 
 ## Connect With Me
 
-- LinkedIn: [Add updated LinkedIn URL]
+- LinkedIn: [linkedin.com/in/sive-cosa-8b293437b](https://www.linkedin.com/in/sive-cosa-8b293437b/)
 - Email: sivesinovuyocosa@gmail.com
 - Location: Johannesburg, South Africa
